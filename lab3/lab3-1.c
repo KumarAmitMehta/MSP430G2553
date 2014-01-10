@@ -22,7 +22,7 @@ void setup_adc(void);
 //Counter for 1 second delay
 unsigned int counter = 15; 
 unsigned int timer = 0;
-unsigned int i;
+unsigned int i,var;
 
 int main(void)
 {
