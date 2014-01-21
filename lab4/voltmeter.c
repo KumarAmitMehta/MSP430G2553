@@ -12,7 +12,7 @@
 // - Start sampling and conversion using ECN and ADC10OSC
 // - Conversion result, stored in ADC10MEM
 // - Use formula as ADC10MEM/28
-// - Use UCA0TXBUF to send temperature over UART to PC once per second
+// - Use UCA0TXBUF to send voltage measure over UART to PC once per second
 //
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 // Sr	Vin	R1(K Ohm)	R2(K ohm)	Vout	UART(Vout Displayed)
